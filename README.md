@@ -24,8 +24,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ```txt
 Isparta Uygulamalı Bilimler Üniversitesi | Bilgisayar Mühendisliği
-Tech: HTML • CSS • JavaScript • C# • C++ • Python
+Tech: HTML • CSS • JavaScript • C# • C++ • Python • SQL
